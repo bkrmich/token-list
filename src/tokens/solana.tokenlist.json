@@ -1,18 +1,25 @@
-    "tags": [
-      "social-token"
-    ]
-  },
-  {
-    "chainId": 101,
-    "address": "6JvXx5usmEHXB3RZjjrk94mcxqAWpFXazSqe9RBSE26z",
-    "symbol": "BTD",
-    "name": "BitDust",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/bkrmich/bitdust-site/main/assets/logo.png",
-    "tags": ["utility-token", "community"],
-    "extensions": {
-      "website": "https://bkrmich.github.io/bitdust-site/"
+    {
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "6JvXx5usmEHXB3RZjjrk94mcxqAWpFXazSqe9RBSE26z",
+      "symbol": "BTD",
+      "name": "BitDust",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6JvXx5usmEHXB3RZjjrk94mcxqAWpFXazSqe9RBSE26z/logo.png",
+      "tags": ["community-token"],
+      "extensions": {
+        "website": "https://bitdustcoin.io",
+        "whitepaper": "https://bitdustcoin.io/whitepaper.pdf",
+        "twitter": "https://twitter.com/michael18359876"
+      }
     }
+    // other tokens continue here...
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
   }
-],
-"version": {
+}
+
